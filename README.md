@@ -1,5 +1,5 @@
 # MATLAB-cosmological-parameter-LSQ-fit
-This project uses MATLAB in order to estimate the cosmological density and hubble parameters, as a part of a research on the expansion of the universe with help from the Weizmann Institute of Science.
+This project uses MATLAB in order to estimate the cosmological density and hubble parameters, as part of a research on the expansion of the universe with help from the Weizmann Institute of Science.
 
 # Research Project
 
