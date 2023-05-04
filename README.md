@@ -46,5 +46,7 @@ This project uses MATLAB in order to estimate the cosmological density and hubbl
     the blue function is the standard value fit and the green function is the final fit using 
     this code (both are similar, as to be expected).
     
+### Difference Between Blue and Green Functions (zoom-in)
+![image](https://github.com/NoRehovot/MATLAB-Cosmological-Parameter-LSQ-Fit/blob/main/dlz_zoom.png)
 
 ### This project was accomplished working with the Weizmann Institute of Science.
