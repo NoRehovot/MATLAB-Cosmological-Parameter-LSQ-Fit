@@ -1,9 +1,9 @@
 # MATLAB-cosmological-parameter-LSQ-fit
-This code uses LSQ to fit a luminosity distance function to data from SCP with z&lt;0.8, as a part of a supervised research project on the expansion of the universe.
+This project uses MATLAB in order to estimate the cosmological density and hubble parameters, as a part of a research on the expansion of the universe with help from the Weizmann Institute of Science.
 
 # Research Project
 
-    This project set out to describe a homogeneous and isotropic model of universe and its expansion rate.
+    In this project I set out to describe a homogeneous and isotropic model of universe and its expansion rate.
     By compiling data from SCP (Supernova Cosmology Project) findings into a graph, where the x-axis is the supernova redshift 
     and the y-axis is it's luminosity distance, and using the LSQ method to find a best-fit luminosity distance for redshift function 
     that contained the parameters needed to describe this model of the universe for the graph, I was able find those paramters and 
@@ -39,4 +39,4 @@ This code uses LSQ to fit a luminosity distance function to data from SCP with z
   - Universe deceleration parameter (q): q = Omega_M / 2 - Omega_Lambda.
   - Age of the universe: 1/H.
 
-### This project was supervised by Gilad Sadeh from the Weizmann Institute of Science.
+### This project was accomplished working with the Weizmann Institute of Science.
