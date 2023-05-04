@@ -37,6 +37,6 @@ This code uses LSQ to fit a luminosity distance function to data from SCP with z
 # Deriving Basic Conclusions from the Results
 
   - Universe deacceleration parameter (q): q = Omega_M / 2 - Omega_Lambda.
-  - age of the universe: 1/H.
+  - Age of the universe: 1/H.
 
 ### This research was supervised by the Weizmann Institute of Science
