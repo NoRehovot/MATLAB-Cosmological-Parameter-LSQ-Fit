@@ -42,7 +42,6 @@ This project uses MATLAB in order to estimate the cosmological density and hubbl
 # Example of a Final Luminosity Distance Function Fit
 ![image](https://github.com/NoRehovot/MATLAB-Cosmological-Parameter-LSQ-Fit/blob/main/final_function.png)
     
-    Where the red dots are the SCP data with their statistical error plotted 
-    as errorbars and the green function is the final fit using this code.
+    Where the red dots are the SCP data with their statistical error plotted as errorbars and the green function is the final fit using this code.
 
 ### This project was accomplished working with the Weizmann Institute of Science.
