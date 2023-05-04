@@ -14,7 +14,7 @@ This code uses LSQ to fit a luminosity distance function to data from SCP with z
   - H: Hubble parameter (km/s/mpc).
   - Omega_M: ratio of matter density to critical density.
   - Omega_Lambda: ratio of vaccum (dark) energy density to critical density.
-  - Omega_R: ratio of relative particle energy density to critical density.
+  - Omega_R: ratio of relativistic particle energy density to critical density.
   - Omega_K: universe curvature parameter (persumed to be 0 in this research).
   - Omega_Lambda + Omega_R + Omega_M + Omega_K = 1.
 
@@ -27,7 +27,7 @@ This code uses LSQ to fit a luminosity distance function to data from SCP with z
 ### Algorithm
 
     Set starting values for the parameters randomly.
-    Constrain the parameters for physically possible values (Relative particle energy density not greater than 0.1 and non negative).
+    Constrain the parameters for physically possible values (Relativistic particle energy density not greater than 0.1 and non negative).
     Find the closest minimum value point to those starting values.
     Store the parameter values that correspond to the minimum point.
     Repeat in a recursive manner 150 times.
