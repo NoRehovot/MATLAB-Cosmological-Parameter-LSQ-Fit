@@ -39,4 +39,4 @@ This code uses LSQ to fit a luminosity distance function to data from SCP with z
   - Universe deceleration parameter (q): q = Omega_M / 2 - Omega_Lambda.
   - Age of the universe: 1/H.
 
-### This project was supervised by the Weizmann Institute of Science
+### This project was supervised by Gilad Sadeh from the Weizmann Institute of Science.
