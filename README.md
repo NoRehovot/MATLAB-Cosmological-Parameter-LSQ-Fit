@@ -22,6 +22,7 @@ This code uses LSQ to fit a luminosity distance function to data from SCP with z
 
     This code defines an LSQ error function for the luminosity distance function.
     This code uses the built-in fminsearch function to find the minimum value for the LSQ error function.
+    --- USE THE XLSX FILE FOR THE SUPERNOVA DATABASE AND CHANGE THE FILE LOCATION IN THE CODE ACCORDINGLY ---
 
 ### Algorithm
 
