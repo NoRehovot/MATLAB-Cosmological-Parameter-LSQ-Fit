@@ -39,4 +39,7 @@ This project uses MATLAB in order to estimate the cosmological density and hubbl
   - Universe deceleration parameter (q): q = Omega_M / 2 - Omega_Lambda.
   - Age of the universe: 1/H.
 
+# Example of a Final Luminosity Distance Function Fit
+![image](https://github.com/NoRehovot/MATLAB-Cosmological-Parameter-LSQ-Fit/blob/main/final_dlz.png)
+
 ### This project was accomplished working with the Weizmann Institute of Science.
