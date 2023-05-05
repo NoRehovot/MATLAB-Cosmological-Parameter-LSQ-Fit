@@ -6,7 +6,7 @@ This project uses MATLAB in order to estimate the cosmological density and hubbl
     In this project I set out to describe a homogeneous and isotropic model of universe and its expansion rate.
     By compiling data from SCP (Supernova Cosmology Project) findings into a graph, where the x-axis is the supernova redshift 
     and the y-axis is it's luminosity distance, and using the LSQ method to find a best-fit luminosity distance for redshift function 
-    that contained the parameters needed to describe this model of the universe for the graph, I was able find those paramters and 
+    that contained the parameters needed to describe this model of the universe for the graph, I was able to find those paramters and 
     reach conclusions about the universe and its expansion rate.
 
 # Definitions
