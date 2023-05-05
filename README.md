@@ -115,4 +115,4 @@ This project uses MATLAB in order to estimate the cosmological density and hubbl
     
     Where the red dots are the SCP data with their statistical error plotted as errorbars and the green function is the final fit using this code.
 
-### This project was accomplished working with the Weizmann Institute of Science.
+### This project was accomplished working with Gilad Sadeh from the Weizmann Institute of Science.
