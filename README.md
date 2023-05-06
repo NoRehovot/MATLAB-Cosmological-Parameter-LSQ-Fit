@@ -116,5 +116,6 @@ This project uses MATLAB in order to estimate the cosmological density and hubbl
 ![image](https://github.com/NoRehovot/MATLAB-Cosmological-Parameter-LSQ-Fit/blob/main/final_function.png)
     
     Where the red dots are the SCP data with their statistical error plotted as errorbars and the green function is the final fit using this code.
+    A.U. -> Arbitrary Units
 
 ### This project was supervised by Gilad Sadeh, Department of Particle Physics and Astrophysics, the Weizmann Institute of Science.
