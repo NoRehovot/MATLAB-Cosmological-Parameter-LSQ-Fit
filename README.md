@@ -86,8 +86,8 @@ This project uses MATLAB in order to estimate the cosmological density and hubbl
 
 # Project Outline
     
-  In this project I represent a luminosity distance for redshift function with the Hubble and density parameters. Then, I create an error 
-  function for the luminosity distance and using an LSQ fit find the values of the parameters that gives minimal error.
+  In this project I represent luminosity distance as a function of redshift using the Hubble and density parameters. Then, I create an error 
+  function for the luminosity distance and using an LSQ fit find the values of the parameters that give minimal error.
     
 
 # Code
